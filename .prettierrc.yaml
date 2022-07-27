@@ -1,0 +1,7 @@
+arrowParenthesis: always
+bracketSpacing: true
+endOfLine: lf
+semi: true
+singleQuote: true
+trailingComma: es5
+useTabs: true
